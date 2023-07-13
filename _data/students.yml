@@ -23,7 +23,7 @@
 #   education1:
 
 
-- name: Joseph Farrington (co-supervisor - Wai Keong Wong)
+- name: Joseph Farrington (co-supervisor - Wai Keong Wong, Martin Utley)
   photo: Joseph.jpg
   info: PhD student, Artificial Intelligence Enabled Healthcare, 2020-2024. 
   homepage: https://iris.ucl.ac.uk/iris/browse/profile?upi=JMFAR78
@@ -32,7 +32,7 @@
   education1: MSc in Machine Learning, at University College London (UCL), UK
   education2: BA in Natural Sciences, at University of Cambridge, UK
 
-- name: Thomas Keen (co-supervisor - Steve Harris)
+- name: Thomas Keen (supervisor - Steve Harris)
   photo: tom.png
   info: PhD student, Institute of Child Health, 2021-.
   homepage: https://iris.ucl.ac.uk/iris/browse/profile?upi=TKEEN17
@@ -41,7 +41,7 @@
   education1: Undergraduate and postgraduate in Mathematics & Philosophy, at University of Oxford, UK
 
 
-- name: Chris Tomlinson (co-supervisor - Alvina Lai)
+- name: Chris Tomlinson (supervisor - Alvina Lai)
   photo: Chris.jpg
   info: PhD student, Artificial Intelligence Enabled Healthcare, 2021-2024.
   homepage: https://www.ctomlinson.net/
@@ -59,7 +59,7 @@
   number_educ: 1
   education1: MSc, BSc at Beijing Insitute of Technology (BIT), China
 
-- name: Thomas Frost (co-supervisor - Steve Harris)
+- name: Thomas Frost (supervisor - Steve Harris)
   photo: tom_frost.jpeg
   info: PhD student, Artificial Intelligence Enabled Healthcare, 2022-2025.
   homepage: https://www.linkedin.com/in/dr-thomas-frost-44709777/?locale=sv_SE
