@@ -10,7 +10,7 @@ title: The Allan Lab
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of the AllanLab.
-baseurl: "/likezwebs"
+baseurl: "/ai4hwebs"
 remote_url: "https://ai4hucl.github.io"
 #remote_url: "https://kezhili.github.io"
 
