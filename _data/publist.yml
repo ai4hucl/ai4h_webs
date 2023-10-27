@@ -1,3 +1,13 @@
+- title: "Going faster to see further: GPU-accelerated value iteration and simulation for perishable inventory control using JAX"
+  image: jax_gpu.png
+  description: This study employed GPU-accelerated value iteration implemented with the Python library JAX to efficiently find optimal replenishment policies for perishable inventory problems with large state spaces. This approach can address complex scenarios with over 16 million states and additional features, demonstrating superior performance compared to heuristic policies with a maximum optimality gap of 2.49%. The methodology has the potential to extend the application of value iteration to a broader range of operational research problems by leveraging consumer-grade GPU hardware for large-scale parallel computation.
+  authors: J. Farrington, K. Li, W. Wong, M. Utley
+  link: 
+    url: https://arxiv.org/pdf/2303.10672.pdf
+    display: Arxiv Preprint (2023 Underview)
+  highlight: 1
+
+
 - title: "Enhancing self-management in type 1 diabetes with wearables and deep learning"
   image: taiyu_npj_paper_2.png
   description: Applying a mixed effects logistic regression analysis to the outcomes of a six-week longitudinal study in 12 type 1 diabetes (T1D) adults using CGM and a clinically validated wearable sensor wristband (NCT ID NCT03643692), we identified several significant associations between physiological measurements and hypo- and hyperglycemic events measured an hour later. We proceeded to develop a new smartphone-based platform, ARISES (Adaptive, Real-time, and Intelligent System to Enhance Self-care), with an embedded deep learning algorithm utilizing multi-modal data from CGM, daily entries of meal and bolus insulin, and the sensor wristband to predict glucose levels and hypo- and hyperglycemia. 
@@ -6,6 +16,7 @@
     url: https://www.nature.com/articles/s41746-022-00626-5
     display: npj Digital Medicine volume 5, Article number 78 (2022) 
   highlight: 1
+
 
 - title: "Machine learning for real-time aggregated prediction of hospital admission for emergency patients"
   image: zk_npj_paper.png
