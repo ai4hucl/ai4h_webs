@@ -1,4 +1,4 @@
-I"â6<h1 id="publications">Publications</h1>
+I"Î6<h1 id="publications">Publications</h1>
 
 <h2 id="group-highlights">Group highlights</h2>
 
@@ -14,7 +14,7 @@
       <p><img src="https://ai4hucl.github.io/ai4h_webs/images/pubpic/jax_gpu.png" class="img-responsive" width="33%" style="float: left" /></p>
       <p>This study employed GPU-accelerated value iteration implemented with the Python library JAX to efficiently find optimal replenishment policies for perishable inventory problems with large state spaces. This approach can address complex scenarios with over 16 million states and additional features, demonstrating superior performance compared to heuristic policies with a maximum optimality gap of 2.49%. The methodology has the potential to extend the application of value iteration to a broader range of operational research problems by leveraging consumer-grade GPU hardware for large-scale parallel computation.</p>
       <p><em>J. Farrington, K. Li, W. Wong, M. Utley</em></p>
-      <p><strong><a href="https://arxiv.org/pdf/2303.10672.pdf">Arxiv Preprint (2023 Underview)</a></strong></p>
+      <p><strong><a href="https://arxiv.org/pdf/2303.10672.pdf">Arxiv Preprint (2023)</a></strong></p>
       <p class="text-danger"><strong> </strong></p>
       <p> </p>
     </div>
@@ -131,7 +131,7 @@
 
 
   Going faster to see further: GPU-accelerated value iteration and simulation for perishable inventory control using JAX <br />
-  <em>J. Farrington, K. Li, W. Wong, M. Utley </em><br /><a href="https://arxiv.org/pdf/2303.10672.pdf">Arxiv Preprint (2023 Underview)</a>
+  <em>J. Farrington, K. Li, W. Wong, M. Utley </em><br /><a href="https://arxiv.org/pdf/2303.10672.pdf">Arxiv Preprint (2023)</a>
 
 
 
