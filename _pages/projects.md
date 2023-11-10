@@ -12,6 +12,8 @@ permalink: /projects/
 ### 1. Differential Diagnosis Support for Philadelphia-Negative Myeloproliferative Neoplasms (MPNs) using Machine Learning (with Samah)
 Patients with Philadelphia-negative MPNs, including polycythemia vera (PV), essential thrombocythemia (ET), and primary myelofibrosis (PMF), often present with various symptoms, making it challenging to differentiate these conditions without additional investigations. Accurate diagnosis is crucial for effective management, long-term care, and prognostication.
 
+hah
+
 Utilizing machine learning algorithms, we aim to develop a diagnostic support tool for differentiating between PV, ET, and PMF. By leveraging real-world data from our large quaternary center with over 400 patients, we will integrate various clinical parameters, including blood-related measurements, to enhance the accuracy of early diagnosis. This project will contribute to improving patient outcomes by providing a reliable and efficient tool for clinicians to navigate the complex landscape of MPN differentials.
 
 ### 2. Prognostic Modeling for Polycythemia Vera and Essential Thrombocythemia using Machine Learning (with Samah)
