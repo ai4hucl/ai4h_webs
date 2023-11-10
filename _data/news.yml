@@ -1,11 +1,32 @@
-- date: 1. October 2022
-  headline: Welcome to AI4H Lab.
+- date: October 2023
+  headline: Joe Farrington attended British Blood Transfusion Society Conference. Poster - Many happy returns, a machine learning-based allocation policy to support platelet waste reduction in hospital blood banks.
 
-- date: 2. October 2022
-  headline: Welcome to AI4H Lab.
+- date: July 2023
+  headline: Joe Farrington attended INFORMS Healthcare Conference. Oral - Going faster to see further, GPU-accelerated value iteration and simulation for blood product inventory management.
 
-- date: 3. October 2022
-  headline: Welcome to AI4H Lab.
+- date: July 2023
+  headline: Joe Farrington attended 49th annual meeting of the EURO Working Group on Operational Research Applied to Health Services. Oral - Reducing platelet wastage with a machine learning-based allocation policy.
+
+- date: May 2023
+  headline: Joe Farrington attended UKRI AI CDTs in Healthcare Conference. Oral - Going faster to see further, GPU-accelerated value iteration and simulation for blood inventory management using JAX.
+
+- date: Feb 2023
+  headline: Chengzhe Piao attended ATTD'23. Poster - BLOOD GLUCOSE LEVEL PREDICTION, AN EXPLAINABLE GRAPH-BASED METHOD
+
+- date: Sep 2022
+  headline: Joe Farrington attended BioMedEng Conference Sep. Poster - Deep reinforcement learning for platelet inventory management.
+
+- date: Sep 2022
+  headline: Chengzhe Piao attended BioMedEng Conference Sep. Oral - Blood glucose level prediction for type 1 diabetes via Federated Learning.
+
+- date: July 2022
+  headline: Joe Farrington attended 48th annual meeting of the EURO Working Group on Operational Research Applied to Health Services. Oral and poster - Deep reinforcement learning for platelet inventory management.
+
+- date: June 2022
+  headline: Joe Farrington attended Early Career Researchers in Mathematics Conference. Oral - Deep reinforcement learning for platelet inventory management.
+
+- date: May 2022
+  headline: Joe Farrington attended UKRI AI CDTs in Healthcare Conference. Oral and poster - Deep reinforcement learning for platelet inventory management.
   
 #- date: 1. October 2021
 #  headline: Maialen will join us within a collaboration with the <a href="http://www.ingmarswart.nl">Swart Lab</a> -- welcome Maialen!
