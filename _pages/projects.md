@@ -5,7 +5,7 @@ excerpt: "AI4H Lab -- Projects"
 sitemap: false
 permalink: /projects/
 ---
-# Projects proposed by Ken (Kezhi) Li for Msc (2023-2024):
+# Projects proposed by Ken (Kezhi) Li for Msc (2023-2024)
 
 ## HDS program
 
