@@ -62,3 +62,13 @@
 #   education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
 #   education3:
 
+- name: Joseph Farrington (Co-supervisor - Wai Keong Wong, Martin Utley)
+  photo: Joseph.jpg
+  info: PhD student, Artificial Intelligence Enabled Healthcare, 2020-2024.
+  homepage: https://joefarrington.github.io/
+  thesis: Machine learning and GPU-accelerated computing applied to platelet inventory management in a hospital blood bank
+  email: joseph.farrington.18@ucl.ac.uk
+  number_educ: 3
+  education1: MRes at University College London (UCL), UK 
+  education2: MSc in Machine Learning, at University College London (UCL), UK
+  education3: BA in Natural Sciences, at University of Cambridge, UK

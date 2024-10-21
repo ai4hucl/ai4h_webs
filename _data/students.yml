@@ -23,15 +23,15 @@
 #   education1:
 
 
-- name: Joseph Farrington (Co-supervisor - Wai Keong Wong, Martin Utley)
-  photo: Joseph.jpg
-  info: PhD student, Artificial Intelligence Enabled Healthcare, 2020-2024. 
-  homepage: https://iris.ucl.ac.uk/iris/browse/profile?upi=JMFAR78
-  email: joseph.farrington.18@ucl.ac.uk
-  number_educ: 3
-  education1: MRes at University College London (UCL), UK 
-  education2: MSc in Machine Learning, at University College London (UCL), UK
-  education3: BA in Natural Sciences, at University of Cambridge, UK
+# - name: Joseph Farrington (Co-supervisor - Wai Keong Wong, Martin Utley)
+#   photo: Joseph.jpg
+#   info: PhD student, Artificial Intelligence Enabled Healthcare, 2020-2024. 
+#   homepage: https://iris.ucl.ac.uk/iris/browse/profile?upi=JMFAR78
+#   email: joseph.farrington.18@ucl.ac.uk
+#   number_educ: 3
+#   education1: MRes at University College London (UCL), UK 
+#   education2: MSc in Machine Learning, at University College London (UCL), UK
+#   education3: BA in Natural Sciences, at University of Cambridge, UK
 
 - name: Thomas Keen (Supervisor - Steve Harris)
   photo: tom.png
