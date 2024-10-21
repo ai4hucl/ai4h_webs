@@ -156,7 +156,7 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   {{ member.info }} 
   <br>[Homepage]({{ member.homepage }}){:target="_blank"}{:rel="noopener noreferrer"}
-  <!-- <br><b>Email</b>: <{{ member.email }}> -->
+  <br><b>Email</b>: <{{ member.email }}>
   <br><b>Educations</b>: 
   <ul style="overflow: hidden">
 
