@@ -90,9 +90,19 @@
 
 - name: Hengrui Zhang
   photo: Hengrui.jpg
-  info: PhD student, Health Informatics, 2022-2025.
+  info: PhD student, Health Informatics, 2023-2027.
   homepage: https://profiles.ucl.ac.uk/96741-hengrui-zhang
   email: hengrui.zhang.21@ucl.ac.uk
   number_educ: 2
   education1: MSc in Health Data Science, at University College London (UCL), UK
   education2: BSc in Computer Science, at University of Warwick, UK 
+
+
+- name: Yu Wang
+  photo: yuwang.jpg
+  info: PhD student, Artificial Intelligence Enabled Healthcare, 2024-2027.
+  homepage: https://scholar.google.com/citations?user=19BMrKYAAAAJ&hl=en
+  email: yu.w.23@ucl.ac.uk
+  number_educ: 2
+  education1: MRes at University College London (UCL), UK 
+  education2: MSc, BSc at Beijing Insitute of Technology (BIT), China
