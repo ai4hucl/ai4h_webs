@@ -155,7 +155,6 @@ permalink: /team/
   <img src="{{ site.remote_url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   {{ member.info }} 
-  <br><b>Thesis</b>: {{ member.thesis }}
   <br>[Homepage]({{ member.homepage }}){:target="_blank"}{:rel="noopener noreferrer"}
   <br><b>Email</b>: {{ member.email }}
   <br><b>Educations</b>: 
@@ -184,6 +183,7 @@ permalink: /team/
   {% endif %}
 
   </ul>
+  <br><b>Thesis</b>: {{ member.thesis }}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
