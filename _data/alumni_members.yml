@@ -66,6 +66,7 @@
   photo: Joseph.jpg
   info: PhD, Artificial Intelligence Enabled Healthcare, 2020-2024.
   homepage: https://joefarrington.github.io/
+  number_theis: 1
   thesis: Machine learning and GPU-accelerated computing applied to platelet inventory management in a hospital blood bank
   email: joseph.farrington.18@ucl.ac.uk
   number_educ: 3
@@ -76,6 +77,7 @@
 - name: Zhiqiang (Alan) Huo
   photo: Zhiqiang.jpg
   info: Zhiqiang (Alan) Huo now is with Queen Marry as an Assistant Professor since Feb 2025.
+  number_theis: 0
   homepage: http://zqhuo.com/
   email: z.huo@ucl.ac.uk
   number_educ: 2

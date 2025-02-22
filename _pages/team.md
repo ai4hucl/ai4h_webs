@@ -183,7 +183,9 @@ permalink: /team/
   {% endif %}
 
   </ul>
+  {% if member.number_thesis == 1 %}
   <b>Thesis</b>: {{ member.thesis }}
+  {% endif %}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
