@@ -58,6 +58,16 @@ Opportunities of postdoctoral research fellowships:
 - [Newton International Fellowship](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)
 - [Royal Academy of Engineering Research Fellowship](https://raeng.org.uk/programmes-and-prizes/programmes/uk-grants-and-prizes/support-for-research/research-fellowships)
 
+
+# MSc projects (2024-2025)
+- 4. Machine Learning for Predicting Platelet Transfusion Requirements in Autologous
+- 5. Data-Driven Prediction of Red Blood Cell (RBC) Transfusion Needs in Autologous
+- 6. Enhancing Nutrition and Meal Event Prediction Using CGM-Derived Features with
+- 21. Physiological Data Enhanced Blood Glucose Levels Prediction
+- 83. Exploring Clinicians and Patients Perspectives on CGM Technology for
+- 100. Developing and Evaluating an LLM-Based Chatbot for Mental Health Screening
+- 103. A review and comparison of invasive and non-invasive continuous glucose
+
 # Projects proposed by Ken (Kezhi) Li for Msc (2023-2024)
 
 ## HDS program

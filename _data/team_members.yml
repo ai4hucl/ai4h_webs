@@ -1,6 +1,6 @@
 - name: Ken (Kezhi) Li
   photo: Ken.jpg
-  info: Ken (Kezhi) Li is a lecturer (Associate Professor) of AI in Healthcare, at the Institute of Health Informatics (IHI), University College London (UCL). He is passionate about solving physiological, medical, clinical, operational problems in healthcare using AI techniques. Specifically, he has expertise in AI in healthcare. Biomedical time series analysis using monitors/wearables. Diabetes management. Patient flow optimization. Prediction and risk management using clinical data. <br>Dr. Li has published over 70 research papers in leading journals and conference proceedings including IEEE Journal of Biomedical and Health Informatics, IEEE Internet of Things Journal, IEEE Sensors Journal; IEEE Trans on Signal Processing, IEEE Trans on Automatic Control, IEEE Trans on Cybernetics, IEEE Trans on Wireless Communications; Nature Methods, Diabetes Technology & Therapeutics, Alzheimer's & Dementia, Heart, BMJ, JAMIA, Scientific Reports, Physical Review A; NeurIPS, IJCAI, CHI, ICASSP, ISCAS, BioCAS, ITW, IFAC, etc.
+  info: Ken (Kezhi) Li is an Associate Professor of AI in Healthcare, at the Institute of Health Informatics (IHI), University College London (UCL). He is passionate about solving physiological, medical, clinical, operational problems in healthcare using AI techniques. Specifically, he has expertise in AI in healthcare. Biomedical time series analysis using monitors/wearables. Diabetes management. Patient flow optimization. Prediction and risk management using clinical data. <br>Dr. Li has published over 70 research papers in leading journals and conference proceedings including IEEE Journal of Biomedical and Health Informatics, IEEE Internet of Things Journal, IEEE Sensors Journal; IEEE Trans on Signal Processing, IEEE Trans on Automatic Control, IEEE Trans on Cybernetics, IEEE Trans on Wireless Communications; Nature Methods, Diabetes Technology & Therapeutics, Alzheimer's & Dementia, Heart, BMJ, JAMIA, Scientific Reports, Physical Review A; NeurIPS, IJCAI, CHI, ICASSP, ISCAS, BioCAS, ITW, IFAC, etc.
   homepage: https://iris.ucl.ac.uk/iris/browse/profile?upi=KLIXX57
   email: ken.li@ucl.ac.uk
   number_educ: 2
@@ -17,15 +17,6 @@
   education1: PhD at the Organizational Psychology from Birkbeck College, US
   education2: Undergraduate degree at the University of Cambridge, UK
 
-
-- name: Zhiqiang (Alan) Huo
-  photo: Zhiqiang.jpg
-  info: Zhiqiang (Alan) Huo now is a research associate at the Institute of Health Informatics (IHI), University College London (UCL). He is passionate about leveraging the power of data science to solve real-world problems and creating practical implications. <br>With multi-disciplinary research background, his research interests lie in harnessing real-world data to improve patients' healthcare and outcomes (e.g., ICU patients). Before joining UCL, he focused on improving the trustworthiness of machine health management system in industrial settings. Especially, he is into the study of time-series complexity analysis, data mining, machine learning, and sensor networks.
-  homepage: http://zqhuo.com/
-  email: z.huo@ucl.ac.uk
-  number_educ: 2
-  education1: PhD at the University of Lincoln, UK    
-  education2: Undergraduate degree at China University of Geosciences, Beijing (CUGB), China
 
 
 - name: Paul Taylor

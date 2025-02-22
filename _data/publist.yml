@@ -1,3 +1,22 @@
+- title: "GARNN - An interpretable graph attentive recurrent neural network for predicting blood glucose levels via multivariate time series"
+  image: chengzhe_nn.jpg
+  description: The state of the art of blood glucose prediction has been achieved by leveraging advanced deep learning methods to model multimodal data, i.e., sensor data and self-reported event data, organized as multi-variate time series (MTS). However, these methods are mostly regarded as “black boxes” and not entirely trusted by clinicians and patients. In this paper, we propose interpretable graph attentive recurrent neural networks (GARNNs) to model MTS, explaining variable contributions via summarizing variable importance and generating feature maps by graph attention mechanisms instead of post-hoc analysis. 
+  authors: C. Piao, T. Zhu, S. E. Baldeweg, P. Taylor, P. Georgiou, J. Sun, J. Wang, K. Li
+  link: 
+    url: https://www.sciencedirect.com/science/article/pii/S089360802500108X
+    display: Neural Networks (2025)
+  highlight: 1
+
+- title: "Large language models for mental health applications: Systematic review"
+  image: zhijun_jmir.png
+  description: This systematic review aims to critically assess the use of LLMs in mental health, specifically focusing on their applicability and efficacy in early screening, digital interventions, and clinical settings. By systematically collating and assessing the evidence from current studies, our work analyzes models, methodologies, data sources, and outcomes, thereby highlighting the potential of LLMs in mental health, the challenges they present, and the prospects for their clinical use.
+  authors: Z. Guo, A. Lai, J.H. Thygesen, J. Farrington, T. Keen, K. Li
+  link: 
+    url: https://mental.jmir.org/2024/1/e57400/
+    display: JMIR mental health (2024)
+  highlight: 1
+
+
 - title: "Going faster to see further: GPU-accelerated value iteration and simulation for perishable inventory control using JAX"
   image: jax_gpu.png
   description: This study employed GPU-accelerated value iteration implemented with the Python library JAX to efficiently find optimal replenishment policies for perishable inventory problems with large state spaces. This approach can address complex scenarios with over 16 million states and additional features, demonstrating superior performance compared to heuristic policies with a maximum optimality gap of 2.49%. The methodology has the potential to extend the application of value iteration to a broader range of operational research problems by leveraging consumer-grade GPU hardware for large-scale parallel computation.
@@ -14,7 +33,7 @@
   authors: T. Zhu, K. Li, P. Herrero, P. Georgiou
   link:
     url: https://www.nature.com/articles/s41746-022-00626-5
-    display: npj Digital Medicine volume 5, Article number 78 (2022) 
+    display: npj Digital Medicine (2022) 
   highlight: 1
 
 
@@ -24,7 +43,7 @@
   authors: Z. King, J. Farrington, M. Utley, E. Kung, S. Elkhodair, S. Harris, R. Sekula, J. Gillham, K. Li, S. Crowe 
   link:
     url: https://www.nature.com/articles/s41746-022-00649-y
-    display: npj Digital Medicine volume 5, Article number 104 (2022)
+    display: npj Digital Medicine (2022)
   highlight: 1
 
 - title: "Personalized Blood Glucose Prediction for Type 1 Diabetes Using Evidential Deep Learning and Meta-Learning"
@@ -51,7 +70,7 @@
   authors: Johan H Thygesen, Chris Tomlinson, Sam Hollings, Mehrdad Mizani, Alex Handy, Ashley Akbari, Amitava Banerjee, Jennifer Cooper, Alvina Lai, Ken Li, Bilal Mateen, Naveed Sattar, Reecha Sofat, Ana Torralbo, Honghan Wu, Angela Wood, Jonathan A C Sterne, Christina Pagel, William Whiteley, Cathie Sudlow, Harry Hemingway, Spiros Denaxas, on behalf of the CVD-COVID-UK Consortium
   link:
     url: https://doi.org/10.1016/S2589-7500%2822%2900091-7
-    display: June 2022, Lancet Digital Health
+    display: Lancet Digital Health (2022)
   highlight: 1
 
 - title: "Automating perfusion assessment of sublingual microcirculation in critical illness"
@@ -60,7 +79,7 @@
   authors: Chris Tomlinson, Jan Grols, Ramit Debnath, Sarah Johnson, Max Barton, Tianyu Han, Seyedeh Nazanin Khatami, Giacomo Baldo, Aniketh Ramesh, Diego Cammarano, Kashif Rajpoot
   link:
     url: https://doi.org/10.5281/zenodo.6799096
-    display: September 2021, Turing Data Study Group Final Report
+    display: Turing Data Study Group Final Report (2021)
   highlight: 1
 
 - title: "A nationwide deep learning pipeline to predict stroke and COVID-19 death in atrial fibrillation"
@@ -69,7 +88,7 @@
   authors: Alex Handy, Angela Wood, Cathie Sudlow, Chris Tomlinson, Frank Kee, Johan H Thygesen, Mohammad Mamouei, Reecha Sofat, Richard Dobson, Samantha Ip, Spiros Denaxas, on behalf of the CVD-COVID-UK Consortium
   link:
     url: https://doi.org/10.1101/2021.12.20.21268113
-    display: December 2021, medRxiv (preprint)
+    display: medRxiv preprint (2021)
   highlight: 1
 
 # - title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
