@@ -1,4 +1,4 @@
-I"—<p>We are a dynamic research group at the <a href="https://www.ucl.ac.uk/health-informatics/ucl-institute-health-informatics">Institute of Health Informatics (IHI)</a>, <a href="https://www.ucl.ac.uk/">University College London (UCL)</a>. Our aim is to explore Artificial Intelligence (AI) applications in healthcare and implement them in real healthcare systems. Specifically, our work includes practical algorithm design, chronic disease care, hospital &amp; patient management, precision medicine, health informatics, medical wearable technology, etc.</p>
+I" <p>We are a dynamic research group at the <a href="https://www.ucl.ac.uk/health-informatics/ucl-institute-health-informatics">Institute of Health Informatics (IHI)</a>, <a href="https://www.ucl.ac.uk/">University College London (UCL)</a>. Our aim is to explore Artificial Intelligence (AI) applications in healthcare and implement them in real healthcare systems. Specifically, our work includes practical algorithm design, chronic disease care, hospital &amp; patient management, precision medicine, health informatics, medical wearable technology, etc.</p>
 
 <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
     <!-- Menu -->
@@ -9,7 +9,7 @@
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
+        <!-- <li data-target="#carousel" data-slide-to="6"></li> -->
     </ol>
 
     <!-- Items -->
