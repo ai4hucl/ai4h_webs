@@ -1,3 +1,12 @@
+- title: "Dynamic mortality prediction in critically Ill children during interhospital transports to PICUs using explainable AI"
+  image: ambulance_mortality.jpg
+  description: The study introduces PROMPT, an explainable machine-learning pipeline that predicts real-time 30-day mortality risk for critically ill children during inter-hospital transport to PICUs. Using continuous vital-sign time series, EHR data, and transport-specific information, PROMPT outperforms the conventional PIM3 score, with random forest and logistic regression models achieving AUROC up to 0.83. The system provides dynamic, patient-specific risk updates and SHAP-based explanations, helping clinicians identify deterioration during transport. This work demonstrates the feasibility of real-time, interpretable AI decision support in mobile paediatric critical care.
+  authors: Z. Huo, J. Booth, T. Monks, P. Knight, L. Watson, M. Peters, C. Pagel, P. Ramnarayan & K. Li
+  link: 
+    url: https://www.nature.com/articles/s41746-025-01465-w#citeas
+    display: npj Digital Medicine (2025)
+  highlight: 1
+
 - title: "GARNN - An interpretable graph attentive recurrent neural network for predicting blood glucose levels via multivariate time series"
   image: chengzhe_nn.jpg
   description: The state of the art of blood glucose prediction has been achieved by leveraging advanced deep learning methods to model multimodal data, i.e., sensor data and self-reported event data, organized as multi-variate time series (MTS). However, these methods are mostly regarded as “black boxes” and not entirely trusted by clinicians and patients. In this paper, we propose interpretable graph attentive recurrent neural networks (GARNNs) to model MTS, explaining variable contributions via summarizing variable importance and generating feature maps by graph attention mechanisms instead of post-hoc analysis. 
