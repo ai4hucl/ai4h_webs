@@ -1,16 +1,16 @@
 - title: "Bias in Large AI Models for Medicine and Healthcare: Survey and Challenges"
-  image: ambulance_mortality.jpg
-  description: The study introduces PROMPT, an explainable machine-learning pipeline that predicts real-time 30-day mortality risk for critically ill children during inter-hospital transport to PICUs. Using continuous vital-sign time series, EHR data, and transport-specific information, PROMPT outperforms the conventional PIM3 score, with random forest and logistic regression models achieving AUROC up to 0.83. The system provides dynamic, patient-specific risk updates and SHAP-based explanations, helping clinicians identify deterioration during transport. This work demonstrates the feasibility of real-time, interpretable AI decision support in mobile paediatric critical care.
-  authors: Z. Huo, J. Booth, T. Monks, P. Knight, L. Watson, M. Peters, C. Pagel, P. Ramnarayan & K. Li
+  image: ai_bias.png
+  description: This survey synthesizes 55 studies on medical bias in large AI models, a rapidly growing but fragmented field spanning medicine, sociology, and computer science. It organizes the literature into three themes: bias taxonomy, detection methods, and mitigation strategies. The review identifies key challenges, including the absence of unified fairness principles, limited datasets and benchmarks, weak automatic bias-detection tools, lack of real-world and continuous validation, poor population representation, and minimal analysis of fairness–accuracy trade-offs. It also highlights emerging research opportunities and provides an indexed list of publicly available models and datasets to support future work.
+  authors: Y. Xiao, Z. Chen, J. T. Huang, W. Chen, Y. Liu, K. Li, M. Mousavi, R. Dobson, J. Zhang
   link: 
-    url: https://www.nature.com/articles/s41746-025-01465-w#citeas
-    display: npj Digital Medicine (2025)
+    url: https://kclpure.kcl.ac.uk/portal/en/publications/bias-in-large-ai-models-for-medicine-and-healthcare-survey-and-ch/
+    display: Preprint (2025)
   highlight: 1
 
 - title: "Dynamic mortality prediction in critically Ill children during interhospital transports to PICUs using explainable AI"
   image: ambulance_mortality.png
   description: The study introduces PROMPT, an explainable machine-learning pipeline that predicts real-time 30-day mortality risk for critically ill children during inter-hospital transport to PICUs. Using continuous vital-sign time series, EHR data, and transport-specific information, PROMPT outperforms the conventional PIM3 score, with random forest and logistic regression models achieving AUROC up to 0.83. The system provides dynamic, patient-specific risk updates and SHAP-based explanations, helping clinicians identify deterioration during transport. This work demonstrates the feasibility of real-time, interpretable AI decision support in mobile paediatric critical care.
-  authors: Z. Huo, J. Booth, T. Monks, P. Knight, L. Watson, M. Peters, C. Pagel, P. Ramnarayan & K. Li
+  authors: Z. Huo, J. Booth, T. Monks, P. Knight, L. Watson, M. Peters, C. Pagel, P. Ramnarayan, K. Li
   link: 
     url: https://www.nature.com/articles/s41746-025-01465-w#citeas
     display: npj Digital Medicine (2025)
