@@ -1,5 +1,14 @@
-- title: "Dynamic mortality prediction in critically Ill children during interhospital transports to PICUs using explainable AI"
+- title: "Bias in Large AI Models for Medicine and Healthcare: Survey and Challenges"
   image: ambulance_mortality.jpg
+  description: The study introduces PROMPT, an explainable machine-learning pipeline that predicts real-time 30-day mortality risk for critically ill children during inter-hospital transport to PICUs. Using continuous vital-sign time series, EHR data, and transport-specific information, PROMPT outperforms the conventional PIM3 score, with random forest and logistic regression models achieving AUROC up to 0.83. The system provides dynamic, patient-specific risk updates and SHAP-based explanations, helping clinicians identify deterioration during transport. This work demonstrates the feasibility of real-time, interpretable AI decision support in mobile paediatric critical care.
+  authors: Z. Huo, J. Booth, T. Monks, P. Knight, L. Watson, M. Peters, C. Pagel, P. Ramnarayan & K. Li
+  link: 
+    url: https://www.nature.com/articles/s41746-025-01465-w#citeas
+    display: npj Digital Medicine (2025)
+  highlight: 1
+
+- title: "Dynamic mortality prediction in critically Ill children during interhospital transports to PICUs using explainable AI"
+  image: ambulance_mortality.png
   description: The study introduces PROMPT, an explainable machine-learning pipeline that predicts real-time 30-day mortality risk for critically ill children during inter-hospital transport to PICUs. Using continuous vital-sign time series, EHR data, and transport-specific information, PROMPT outperforms the conventional PIM3 score, with random forest and logistic regression models achieving AUROC up to 0.83. The system provides dynamic, patient-specific risk updates and SHAP-based explanations, helping clinicians identify deterioration during transport. This work demonstrates the feasibility of real-time, interpretable AI decision support in mobile paediatric critical care.
   authors: Z. Huo, J. Booth, T. Monks, P. Knight, L. Watson, M. Peters, C. Pagel, P. Ramnarayan & K. Li
   link: 
