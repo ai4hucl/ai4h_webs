@@ -42,6 +42,10 @@ If you are interested in pursuing a Master degree at Leiden University, see [mas
 </figure>
 
 -->
+## Open MRes positions
+Opportunities of MRes studentship:
+- [Artificial Intelligence Enabled Healthcare MRes](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/artificial-intelligence-enabled-healthcare-mres)
+
 ## Open PhD positions
 Please email for details. Potential PhD student can apply for PhD scholarship through 
 - [CDT AI-enabled Healthcare Systems](https://www.tech4health.co.uk/)
