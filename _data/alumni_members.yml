@@ -95,9 +95,18 @@
 
 - name: Chengzhe Piao (Co-supervisor - Jun Wang)
   photo: Chengzhe2.png
-  info: PhD student, Artificial Intelligence Enabled Healthcare, 2022-2025.
+  info: PhD, Artificial Intelligence Enabled Healthcare, 2022-2026.
   homepage: https://scholar.google.com/citations?user=f0Kjn88AAAAJ&hl=en
   email: chengzhe.piao.21@ucl.ac.uk
   number_educ: 2
   education1: MRes at University College London (UCL), UK 
   education2: MSc, BSc at Beijing Insitute of Technology (BIT), China
+
+- name: Zhijun Guo (Co-supervisor - Alvina Lai)
+  photo: zhijun.jpeg
+  info: PhD, Health Informatics, 2023-2026.
+  number_thesis: 0
+  email: zhijun.guo.21@ucl.ac.uk
+  number_educ: 2
+  education1: MSc in Health Data Science, at University College London (UCL), UK
+  education2: BA in Mathematics, at Kings College London (KCL), UK
