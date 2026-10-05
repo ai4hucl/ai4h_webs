@@ -108,3 +108,11 @@
   number_educ: 2
   education1: MEng at University of Cambridge, UK
   education2: BSc at University of Cambridge, UK
+
+- name: Jia Yu
+  photo: jiayu.png
+  info: PhD student, Health Informatics, 2026-2030.
+  email: jia.yu.17@ucl.ac.uk
+  number_educ: 2
+  education1: MSc at University of Oxford, UK
+  education2: BSc at University College London (UCL), UK
