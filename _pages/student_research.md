@@ -1,12 +1,12 @@
 ---
-title: "AI4H Lab - MRes Research"
+title: "AI4H Lab - Student Research"
 layout: textlay
-excerpt: "AI4H Lab -- MRes Research"
+excerpt: "AI4H Lab -- Student Research"
 sitemap: false
-permalink: /mres_research/
+permalink: /student_research/
 ---
 
-# MRes Research
+# Student Research
 
 Masters-level research projects carried out with the group at the Institute of Health Informatics.
 
@@ -18,7 +18,7 @@ High blood pressure and diabetes often go together, and each makes the other mor
 
 This project put that question to the test. Six adults took part: two with type 1 diabetes, two with type 2 diabetes and two without diabetes, all of them already using a continuous glucose monitor. Each wore a **Huawei Watch D2** during the day for three weeks, taking a blood pressure reading roughly every 45 minutes, while their glucose sensor ran as usual. At the end they completed a questionnaire covering sixteen rated items and several open questions. The ratings were summarised item by item, and the written answers were analysed for recurring themes.
 
-![]({{ site.remote_url }}{{ site.baseurl }}/images/respic/mres_smartwatch_bp.png){: style="width: 90%; float: center; margin: 10px"}
+![]({{ site.remote_url }}{{ site.baseurl }}/images/respic/smartwatch_bp_feasibility.png){: style="width: 90%; float: center; margin: 10px"}
 
 Everyone finished the three weeks, nobody dropped out, and five of the six said they would use this kind of watch outside a research study. The problem was not wearing the watch. It was taking the measurement. Readings failed during walking, driving and even after a short walk, and the fixed 45-minute cycle demanded that people stop, sit still and raise an arm at moments that did not suit them: in meetings, at the wheel, or on a hospital ward where staff are not allowed to wear anything below the elbow. Of all sixteen items, **measuring during physical activity scored lowest**, and three of the six participants rated it 2 or below.
 
